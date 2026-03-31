@@ -62,4 +62,4 @@ export class AppController {
 ![](/public/Img/1strequest.png)
 ![](/public/Img/rate-limit.png)
 
-[Also know](https://docs.nestjs.com/security/rate-limiting)
+[Also know visit- nestjs/rate-limiting docs](https://docs.nestjs.com/security/rate-limiting)
