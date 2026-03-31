@@ -61,3 +61,5 @@ export class AppController {
 ##### 3bar er beshi request ba reload dile errormessage show korbe
 ![](/public/Img/1strequest.png)
 ![](/public/Img/rate-limit.png)
+
+[Also know](https://docs.nestjs.com/security/rate-limiting)
